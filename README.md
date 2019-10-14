@@ -41,6 +41,10 @@ Restaurant managers(admin users) can view today's recently placed orders and upd
 ![manage_order_list](https://github.com/samyka/Pizzeria/blob/master/screenshots/manage_order_list.png?raw=true)
 
 
-## Languages and Tools
-* Languages: Python 3.7, JavaScript ES6
-* Frameworks and Libraries: Django 2.1, Bootstrap, jQuery
+
+### Basic test-cases included
+[orders/tests.py](https://github.com/samyka/Pizzeria/blob/master/orders/tests.py)
+[reviews/tests.py](https://github.com/samyka/Pizzeria/blob/master/reviews/tests.py)
+
+
+### Screencast presentation [here](https://youtu.be/XvYri7D-BSs)
